@@ -7,5 +7,5 @@ The Quest for Artificial Superintelligence one code at a time
 
 [Multi-Label Classification of Toxic Comments using Bidirectional LSTM's, 1D Convolutions and GloVe word2vec ](https://github.com/shubhamphal/One-NLP/blob/master/MultiLabel_Classification_of_Toxic_Comments.ipynb)
 
-[Poetry Generation using Language Modelling](https://github.com/shubhamphal/One-NLP/blob/master/MultiLabel_Classification_of_Toxic_Comments.ipynb)
+[Poetry Generation using Language Modelling](https://github.com/shubhamphal/One-NLP/blob/master/Poetry_Generation_using_Language_Modelling.ipynb)
 
