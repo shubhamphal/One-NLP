@@ -9,3 +9,5 @@ The Quest for Artificial Superintelligence one code at a time
 
 [Poetry Generation using Language Modelling](https://github.com/shubhamphal/One-NLP/blob/master/Poetry_Generation_using_Language_Modelling.ipynb)
 
+[Neural Machine Translation using Seq2Seq with Teacher Forcing](https://github.com/shubhamphal/One-NLP/blob/master/Poetry_Generation_using_Language_Modelling.ipynb)
+
