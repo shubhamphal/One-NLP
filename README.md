@@ -11,4 +11,4 @@ The Quest for Artificial Superintelligence one code at a time
 
 [Neural Machine Translation using Seq2Seq with Teacher Forcing](https://github.com/shubhamphal/One-NLP/blob/master/Neural_Machine_Translation.ipynb)
 
-[Detecting Contradiction and Entailment in Multi-lingual text](https://github.com/shubhamphal/One-NLP/blob/master/Neural_Machine_Translation.ipynb)
+[Detecting Contradiction and Entailment in Multi-lingual text](https://github.com/shubhamphal/One-NLP/blob/master/Detecting_Contradiction_and_Entailment_in_Multi_lingual_text.ipynb)
